@@ -8,143 +8,143 @@
 <h3 align="center">Languages</h3>
 <p align="center">
 	<a href="https://www.typescriptlang.org" target="_blank">
-		<img style="object-fit: contain" src="img/typescript.png"
+		<img src="img/typescript.png"
 			alt="Typescript" width="40" height="40" />
 	</a>
 	<a href="https://docs.microsoft.com/dotnet/csharp" target="_blank">
-		<img style="object-fit: contain" style="object-fit: contain" src="img/csharp.png"
+		<img src="img/csharp.png"
 			alt="C#" width="40" height="40" />
 	</a>
 	<a href="https://www.cplusplus.com" target="_blank">
-		<img style="object-fit: contain" src="img/c++.svg"
+		<img src="img/c++.png"
 			alt="C++" width="40" height="40" />
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img style="object-fit: contain" src="img/javascript.png"
+		<img src="img/javascript.png"
 			alt="JavaScript" width="40" height="40" />
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-		<img style="object-fit: contain" src="img/html.png"
+		<img src="img/html.png"
 			alt="HTML" width="40" height="40" />
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-		<img style="object-fit: contain" src="img/css.png"
+		<img src="img/css.png"
 			alt="CSS" width="40" height="40" />
 	</a>
 	<a href="https://sass-lang.com" target="_blank">
-		<img style="object-fit: contain" src="img/sass.png" alt="Sass"
+		<img src="img/sass.png" alt="Sass"
 			width="40" height="40" />
 	</a>
 </p>
 <p align="center">
 	<a href="https://www.python.org" target="_blank">
-		<img style="object-fit: contain" src="img/python.png" alt="Python"
+		<img src="img/python.png" alt="Python"
 			width="40" height="40" />
 	</a>
 	<a href="https://docs.microsoft.com/dotnet/visual-basic" target="_blank">
-		<img style="object-fit: contain" src="img/vb.net.png" alt="VB.Net"
+		<img src="img/vb.net.png" alt="VB.Net"
 			width="40" height="40" />
 	</a>
 	<a href="https://www.cprogramming.com" target="_blank">
-		<img style="object-fit: contain" src="img/c.png" alt="C"
+		<img src="img/c.png" alt="C"
 			width="40" height="40" />
 	</a>
 	<a href="http://www.lua.org" target="_blank">
-		<img style="object-fit: contain" src="img/lua.png" alt="Lua"
+		<img src="img/lua.png" alt="Lua"
 			width="40" height="40" />
 	</a>
 	<a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank">
-		<img style="object-fit: contain" src="img/assembly.png" alt="Assembly"
+		<img src="img/assembly.png" alt="Assembly"
 			width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Frameworks</h3>
 <p align="center">
 	<a href="https://dotnet.microsoft.com" target="_blank">
-		<img style="object-fit: contain" src="img/.net-core.png"
+		<img src="img/.net-core.png"
 			alt=".Net" width="40" height="40" />
 	</a>
 	<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
-		<img style="object-fit: contain" src="img/blazor.png"
+		<img src="img/blazor.png"
 			alt="Blazor" width="40" height="40" />
 	</a>
 	<a href="https://nodejs.org" target="_blank">
-		<img style="object-fit: contain" src="img/nodejs.png"
+		<img src="img/nodejs.png"
 			alt="Nodejs" width="40" height="40" />
 	</a>
 	<a href="https://vuejs.org" target="_blank">
-		<img style="object-fit: contain" src="img/vuejs.png"
+		<img src="img/vuejs.png"
 			alt="Vue.js" width="40" height="40" />
 	</a>
 	<a href="https://ant.design" target="_blank">
-		<img style="object-fit: contain" src="img/ant-design.svg"
+		<img src="img/ant-design.svg"
 			alt="Ant Design" width="40" height="40" />
 	</a><a href="https://www.qt.io" target="_blank">
-		<img style="object-fit: contain" src="img/qt.png"
+		<img src="img/qt.png"
 			alt="Qt" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Databases</h3>
 <p align="center">
 	<a href="https://www.mysql.com" target="_blank">
-		<img style="object-fit: contain" src="img/mysql.png"
+		<img src="img/mysql.png"
 			alt="MySQL" width="40" height="40" />
 	</a>
 	<a href="https://typeorm.io" target="_blank">
-		<img style="object-fit: contain" src="img/typeorm.png"
+		<img src="img/typeorm.png"
 			alt="TypeORM" width="40" height="40" />
 	</a>
 	<a href="https://redis.io" target="_blank">
-		<img style="object-fit: contain" src="img/redis.png"
+		<img src="img/redis.png"
 			alt="Redis" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Applications</h3>
 <p align="center">
 	<a href="https://visualstudio.microsoft.com" target="_blank">
-		<img style="object-fit: contain" src="img/visual-studio.png"
+		<img src="img/visual-studio.png"
 			alt="Visual Studio" width="40" height="40" />
 	</a>
 	<a href="https://code.visualstudio.com" target="_blank">
-		<img style="object-fit: contain" src="img/visual-studio-code.png"
+		<img src="img/visual-studio-code.png"
 			alt="Visual Studio Code" width="40" height="40" />
 	</a>
 	<a href="https://notepad-plus-plus.org/downloads/" target="_blank">
-		<img style="object-fit: contain" src="img/notepad++.png"
+		<img src="img/notepad++.png"
 			alt="Nodepad++" width="40" height="40" />
 	</a>
 </p>
 <p align="center">
 	<a href="https://www.nginx.com" target="_blank">
-		<img style="object-fit: contain" src="img/nginx.png" alt="Nginx" width="40" height="40" />
+		<img src="img/nginx.png" alt="Nginx" width="40" height="40" />
 	</a>
 	<a href="https://git-scm.com" target="_blank">
-		<img style="object-fit: contain" src="img/git.png" alt="Git" width="40" height="40" />
+		<img src="img/git.png" alt="Git" width="40" height="40" />
 	</a>
 	<a href="https://postman.com" target="_blank">
-		<img style="object-fit: contain" src="img/postman.png" alt="Postman" width="40"
+		<img src="img/postman.png" alt="Postman" width="40"
 			height="40" />
 	</a>
 	<a href="https://swagger.io" target="_blank">
-		<img style="object-fit: contain" src="img/swagger.png" alt="Swagger" width="40" height="40" />
+		<img src="img/swagger.png" alt="Swagger" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Hardware</h3>
 <p align="center">
 	<a href="https://www.xilinx.com/products/silicon-devices/fpga.html" target="_blank">
-		<img style="object-fit: contain" src="img/fpga.png"
+		<img src="img/fpga.png"
 			alt="FPGA" width="40" height="40" />
 	</a>
 	<a href="https://www.chipverify.com/systemverilog/systemverilog-tutorial" target="_blank">
-		<img style="object-fit: contain" src="img/system-verilog.png"
+		<img src="img/system-verilog.png"
 			alt="System Verilog" width="40" height="40" />
 	</a>
 	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
-		<img style="object-fit: contain" src="img/vivado.png"
+		<img src="img/vivado.png"
 			alt="Vivado" width="40" height="40" />
 	</a>
 	<a href="https://www.arduino.cc" target="_blank">
-		<img style="object-fit: contain" src="img/arduino.png"
+		<img src="img/arduino.png"
 			alt="Arduino" width="40" height="40" />
 	</a>
 </p>
