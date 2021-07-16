@@ -109,10 +109,6 @@
 		<img src="img/visual-studio-code.png"
 			alt="Visual Studio Code" width="40" height="40" />
 	</a>
-	<a href="https://notepad-plus-plus.org/downloads/" target="_blank">
-		<img src="img/notepad++.png"
-			alt="Nodepad++" width="40" height="40" />
-	</a>
 </p>
 <p align="center">
 	<a href="https://www.nginx.com" target="_blank">
