@@ -41,6 +41,10 @@
 		<img src="img/python.png" alt="Python"
 			width="40" height="40" />
 	</a>
+	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
+		<img src="img/powershell.png" alt="Python"
+			width="40" height="40" />
+	</a>
 	<a href="https://docs.microsoft.com/dotnet/visual-basic" target="_blank">
 		<img src="img/vb.net.png" alt="VB.Net"
 			width="40" height="40" />
