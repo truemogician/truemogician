@@ -76,34 +76,38 @@
 		<img src="img/nodejs.png"
 			alt="Nodejs" width="40" height="40" />
 	</a>
+	</a><a href="https://reactjs.org/" target="_blank">
+		<img src="img/react.png"
+			alt="React" width="40" height="40" />
+	</a>
 	<a href="https://vuejs.org" target="_blank">
 		<img src="img/vuejs.png"
 			alt="Vue.js" width="40" height="40" />
 	</a>
-	<a href="https://ant.design" target="_blank">
-		<img src="img/ant-design.svg"
-			alt="Ant Design" width="40" height="40" />
-	</a><a href="https://www.qt.io" target="_blank">
-		<img src="img/qt.png"
-			alt="Qt" width="40" height="40" />
-	</a>
 </p>
 <h3 align="center">Databases</h3>
 <p align="center">
+<a href="https://www.postgresql.org/" target="_blank">
+		<img src="img/postgresql.png"
+			alt="PostgreSQL" width="40" height="40" />
+	</a>
 	<a href="https://www.mysql.com" target="_blank">
 		<img src="img/mysql.png"
 			alt="MySQL" width="40" height="40" />
 	</a>
-	<a href="https://typeorm.io" target="_blank">
-		<img src="img/typeorm.png"
-			alt="TypeORM" width="40" height="40" />
+	<a href="https://ant.design" target="_blank">
+		<img src="img/ant-design.svg"
+			alt="Ant Design" width="40" height="40" />
+	<a href="https://www.sqlite.org" target="_blank">
+		<img src="img/sqlite.png"
+			alt="SQLite" width="40" height="40" />
 	</a>
 	<a href="https://redis.io" target="_blank">
 		<img src="img/redis.png"
 			alt="Redis" width="40" height="40" />
 	</a>
 </p>
-<h3 align="center">Applications</h3>
+<h3 align="center">IDEs</h3>
 <p align="center">
 	<a href="https://visualstudio.microsoft.com" target="_blank">
 		<img src="img/visual-studio.png"
@@ -113,7 +117,16 @@
 		<img src="img/visual-studio-code.png"
 			alt="Visual Studio Code" width="40" height="40" />
 	</a>
+	<a href="https://www.jetbrains.com/resharper" target="_blank">
+		<img src="img/resharper.png"
+			alt="Resharper" width="40" height="40" />
+	</a>
+	<a href="https://oz-code.com/" target="_blank">
+		<img src="img/ozcode.png"
+			alt="OzCode" width="40" height="40" />
+	</a>
 </p>
+<h3 align="center">Tools</h3>
 <p align="center">
 	<a href="https://www.nginx.com" target="_blank">
 		<img src="img/nginx.png" alt="Nginx" width="40" height="40" />
