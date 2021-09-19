@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-	I'm a sophomore from China, majoring in Computer Science and Technology.<br />Used
+	I'm a junior from China, majoring in Computer Science and Technology.<br />Used
 	to participate in National Olympaid in Informatics in high school and gained
 	first prize.
 </p>
@@ -62,20 +62,15 @@
 			width="40" height="40" />
 	</a>
 </p>
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
-	<a href="https://dotnet.microsoft.com" target="_blank">
-		<img src="img/.net-core.png"
-			alt=".Net" width="40" height="40" />
-	</a>
 	<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
 		<img src="img/blazor.png"
 			alt="Blazor" width="40" height="40" />
 	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="img/nodejs.png"
-			alt="Nodejs" width="40" height="40" />
-	</a>
+	<a href="https://ant.design" target="_blank">
+		<img src="img/ant-design.svg"
+			alt="Ant Design" width="40" height="40" />
 	</a><a href="https://reactjs.org/" target="_blank">
 		<img src="img/react.png"
 			alt="React" width="40" height="40" />
@@ -83,6 +78,17 @@
 	<a href="https://vuejs.org" target="_blank">
 		<img src="img/vuejs.png"
 			alt="Vue.js" width="40" height="40" />
+	</a>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+	<a href="https://dotnet.microsoft.com" target="_blank">
+		<img src="img/.net-core.png"
+			alt=".Net" width="40" height="40" />
+	</a>
+	<a href="https://nodejs.org" target="_blank">
+		<img src="img/nodejs.png"
+			alt="Nodejs" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Databases</h3>
@@ -95,9 +101,6 @@
 		<img src="img/mysql.png"
 			alt="MySQL" width="40" height="40" />
 	</a>
-	<a href="https://ant.design" target="_blank">
-		<img src="img/ant-design.svg"
-			alt="Ant Design" width="40" height="40" />
 	<a href="https://www.sqlite.org" target="_blank">
 		<img src="img/sqlite.png"
 			alt="SQLite" width="40" height="40" />
