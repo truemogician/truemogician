@@ -7,13 +7,13 @@
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
-	<a href="https://www.typescriptlang.org" target="_blank">
-		<img src="img/typescript.png"
-			alt="Typescript" width="40" height="40" />
-	</a>
 	<a href="https://docs.microsoft.com/dotnet/csharp" target="_blank">
 		<img src="img/csharp.png"
 			alt="C#" width="40" height="40" />
+	</a>
+	<a href="https://www.typescriptlang.org" target="_blank">
+		<img src="img/typescript.png"
+			alt="Typescript" width="40" height="40" />
 	</a>
 	<a href="https://www.cplusplus.com" target="_blank">
 		<img src="img/c++.png"
@@ -37,12 +37,20 @@
 	</a>
 </p>
 <p align="center">
+	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
+		<img src="img/powershell.png" alt="Python"
+			width="40" height="40" />
+	</a>
 	<a href="https://www.python.org" target="_blank">
 		<img src="img/python.png" alt="Python"
 			width="40" height="40" />
 	</a>
-	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
-		<img src="img/powershell.png" alt="Python"
+	<a href="https://www.autohotkey.com" target="_blank">
+		<img src="img/autohotkey.png" alt="Python"
+			width="40" height="40" />
+	</a>
+	<a href="http://www.lua.org" target="_blank">
+		<img src="img/lua.png" alt="Lua"
 			width="40" height="40" />
 	</a>
 	<a href="https://docs.microsoft.com/dotnet/visual-basic" target="_blank">
@@ -51,10 +59,6 @@
 	</a>
 	<a href="https://www.cprogramming.com" target="_blank">
 		<img src="img/c.png" alt="C"
-			width="40" height="40" />
-	</a>
-	<a href="http://www.lua.org" target="_blank">
-		<img src="img/lua.png" alt="Lua"
 			width="40" height="40" />
 	</a>
 	<a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank">
