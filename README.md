@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-	I'm a junior from China, majoring in Computer Science and Technology.<br />Used
+	I'm a senior from China, majoring in Computer Science and Information Security.<br />Used
 	to participate in National Olympaid in Informatics in high school and gained
 	first prize.
 </p>
@@ -89,6 +88,10 @@
 	<a href="https://dotnet.microsoft.com" target="_blank">
 		<img src="img/.net-core.png"
 			alt=".Net" width="40" height="40" />
+	</a>
+	<a href="https://nestjs.com" target="_blank">
+		<img src="img/nestjs.svg"
+			alt="Nodejs" width="40" height="40" />
 	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img src="img/nodejs.png"
