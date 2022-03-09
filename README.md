@@ -30,14 +30,14 @@
 		<img src="img/css.png"
 			alt="CSS" width="40" height="40" />
 	</a>
-	<a href="https://sass-lang.com" target="_blank">
-		<img src="img/sass.png" alt="Sass"
+	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
+		<img src="img/powershell.png" alt="Python"
 			width="40" height="40" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
-		<img src="img/powershell.png" alt="Python"
+	<a href="https://www.java.com" target="_blank">
+		<img src="img/java.png" alt="Java"
 			width="40" height="40" />
 	</a>
 	<a href="https://www.python.org" target="_blank">
@@ -99,6 +99,9 @@
 	</a>
 	<a href="https://www.nginx.com" target="_blank">
 		<img src="img/nginx.png" alt="Nginx" width="40" height="40" />
+	</a>
+	<a href="https://spring.io" target="_blank">
+		<img src="img/spring.png" alt="Spring" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Databases</h3>
