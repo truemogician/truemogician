@@ -82,6 +82,10 @@
 		<img src="img/vuejs.png"
 			alt="Vue.js" width="40" height="40" />
 	</a>
+	</a><a href="https://docs.microsoft.com/visualstudio/designers/getting-started-with-wpf" target="_blank">
+		<img src="img/wpf.png"
+			alt="WPF" width="40" height="40" />
+	</a>
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
