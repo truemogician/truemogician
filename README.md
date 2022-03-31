@@ -14,6 +14,10 @@
 		<img src="img/typescript.png"
 			alt="Typescript" width="40" height="40" />
 	</a>
+	<a href="https://kotlinlang.org" target="_blank">
+		<img src="img/kotlin.png"
+			alt="Kotlin" width="40" height="40" />
+	</a>
 	<a href="https://www.cplusplus.com" target="_blank">
 		<img src="img/c++.png"
 			alt="C++" width="40" height="40" />
@@ -30,12 +34,12 @@
 		<img src="img/css.png"
 			alt="CSS" width="40" height="40" />
 	</a>
+</p>
+<p align="center">
 	<a href="https://docs.microsoft.com/en-us/powershell" target="_blank">
 		<img src="img/powershell.png" alt="Python"
 			width="40" height="40" />
 	</a>
-</p>
-<p align="center">
 	<a href="https://www.java.com" target="_blank">
 		<img src="img/java.png" alt="Java"
 			width="40" height="40" />
@@ -44,24 +48,20 @@
 		<img src="img/python.png" alt="Python"
 			width="40" height="40" />
 	</a>
-	<a href="https://www.autohotkey.com" target="_blank">
-		<img src="img/autohotkey.png" alt="Python"
-			width="40" height="40" />
-	</a>
 	<a href="http://www.lua.org" target="_blank">
 		<img src="img/lua.png" alt="Lua"
 			width="40" height="40" />
 	</a>
-	<a href="https://docs.microsoft.com/dotnet/visual-basic" target="_blank">
-		<img src="img/vb.net.png" alt="VB.Net"
+	<a href="https://www.autohotkey.com" target="_blank">
+		<img src="img/autohotkey.png" alt="Python"
 			width="40" height="40" />
 	</a>
 	<a href="https://www.cprogramming.com" target="_blank">
 		<img src="img/c.png" alt="C"
 			width="40" height="40" />
 	</a>
-	<a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank">
-		<img src="img/assembly.png" alt="Assembly"
+	<a href="https://docs.microsoft.com/dotnet/visual-basic" target="_blank">
+		<img src="img/vb.net.png" alt="VB.Net"
 			width="40" height="40" />
 	</a>
 </p>
@@ -91,17 +91,13 @@
 	</a>
 	<a href="https://nestjs.com" target="_blank">
 		<img src="img/nestjs.svg"
-			alt="Nodejs" width="40" height="40" />
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="img/nodejs.png"
-			alt="Nodejs" width="40" height="40" />
-	</a>
-	<a href="https://www.nginx.com" target="_blank">
-		<img src="img/nginx.png" alt="Nginx" width="40" height="40" />
+			alt="Nestjs" width="40" height="40" />
 	</a>
 	<a href="https://spring.io" target="_blank">
 		<img src="img/spring.png" alt="Spring" width="40" height="40" />
+	</a>
+	<a href="https://www.nginx.com" target="_blank">
+		<img src="img/nginx.png" alt="Nginx" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Databases</h3>
@@ -133,13 +129,13 @@
 		<img src="img/visual-studio-code.png"
 			alt="Visual Studio Code" width="40" height="40" />
 	</a>
+	<a href="https://www.jetbrains.com/idea" target="_blank">
+		<img src="img/intellij-idea.png"
+			alt="IntelliJ IDEA" width="40" height="40" />
+	</a>
 	<a href="https://www.jetbrains.com/resharper" target="_blank">
 		<img src="img/resharper.png"
 			alt="Resharper" width="40" height="40" />
-	</a>
-	<a href="https://oz-code.com/" target="_blank">
-		<img src="img/ozcode.png"
-			alt="OzCode" width="40" height="40" />
 	</a>
 </p>
 <h3 align="center">Tools</h3>
